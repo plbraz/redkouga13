@@ -1,16 +1,16 @@
 ## Olá! Eu sou o Pedro Braz
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando JavaScript
-- 🤔 Procuro conteúdos ASP Clássico para auxiliar no meu estágio
+- 🔭 Hoje trabalho com front-end.
+- 🌱 Estudando JavaScript.
+- 🤔 Procuro conteúdos sobre ASP Clássico para auxiliar no meu estágio atual.
 - 📫 Contate-me no email: pluiz.braz@gmail.com
-- 😄 Pronomes: Ele/Dele
-- ⚡ Fato Engraçado: Sempre quis comer nuggets de dinossauros 
+- 😄 Pronomes: Ele/Dele.
+- ⚡ Fato Engraçado: Sempre quis comer nuggets de dinossauros.
 
 <div align="center">
   <a href="https://github.com/RedKouga13">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RedKouga13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedKouga13&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="149em" src="https://github-readme-stats.vercel.app/api?username=RedKouga13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedKouga13&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -19,6 +19,7 @@
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Pedro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Pedro-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="right" alt="Pedro-pic" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/ArAgo5dU2z2xO/giphy.gif?cid=790b761174dd4464a28af62e0e0ea8358cb3e1da9c014bf5&rid=giphy.gif&ct=g">
 </div>
   

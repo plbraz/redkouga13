@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com front-end.
 - 🌱 Estudando JavaScript.
-- 🤔 Procuro conteúdos sobre ASP Clássico para auxiliar no meu estágio atual.(Mas nunca deixando de procurar conteúdo de React)
+- 🤔 Procuro conteúdos sobre React no meu tempo livre.
 - 📫 Contate-me no email: pluiz.braz@gmail.com
 - 😄 Pronomes: Ele/Dele.
 - ⚡ Fato Engraçado: Sempre quis comer nuggets de dinossauros.

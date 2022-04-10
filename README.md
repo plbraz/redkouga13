@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Pedro Braz
 
-- 🔭 Hoje trabalho com front-end.
+- 🔭 Hoje trabalho em um estágio FullStack.
 - 🌱 Estudando JavaScript.
 - 🤔 Procuro conteúdos sobre React no meu tempo livre.
 - 📫 Contate-me no email: pluiz.braz@gmail.com

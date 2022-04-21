@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Pedro Braz
 
 - 🔭 Hoje trabalho em um estágio FullStack.
-- 🌱 Estudando JavaScript.
+- 🌱 Estudando JavaScript/React.
 - 🤔 Procuro conteúdos sobre React no meu tempo livre.
 - 📫 Contate-me no email: pluiz.braz@gmail.com
 - 😄 Pronomes: Ele/Dele.

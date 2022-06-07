@@ -6,7 +6,7 @@
 - 📫 Contate-me no email: pluiz.braz@gmail.com
 - 😄 Pronomes: Ele/Dele.
 - ⚡ Fato Engraçado: Sempre quis comer nuggets de dinossauros.
-- 💗 Apaixonado por Front-End.
+- 💗 Apaixonado por FrontEnd.
 <div align="center">
   <a href="https://github.com/RedKouga13">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=RedKouga13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

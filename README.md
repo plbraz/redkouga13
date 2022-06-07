@@ -21,7 +21,7 @@
   <img align="center" alt="Pedro-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Pedro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="right" alt="Pedro-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/kFEvac9.gif"> 
+  <img align="right" alt="Pedro-pic" height="150" src="https://camo.githubusercontent.com/5289a5ff13fb66f189fb1f08d7c4175c74176cd3ad6605c5b35c03330964e613/68747470733a2f2f692e696d6775722e636f6d2f6b4645766163392e676966" data-canonical-src="https://i.imgur.com/kFEvac9.gif" style="max-width: 100%;">
 </div>
   
   ##

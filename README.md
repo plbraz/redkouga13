@@ -1,6 +1,6 @@
 ## Oi! Eu sou o Pedro!
 
-- 🔭 Hoje trabalho em um estágio Backend.
+- 🔭 Estagiário FullStack.
 - 🌱 Estudando JavaScript/React.
 - 🤔 Procuro conteúdos sobre React no meu tempo livre.
 - 📫 Contate-me no email: pluiz.braz@gmail.com

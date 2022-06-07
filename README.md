@@ -1,4 +1,4 @@
-## Olá! Eu sou o Pedro Braz
+## Oi! Eu sou o Pedro!
 
 - 🔭 Hoje trabalho em um estágio Backend.
 - 🌱 Estudando JavaScript/React.

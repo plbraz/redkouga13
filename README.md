@@ -2,7 +2,7 @@
 
 - 🔭 Estagiário FullStack.
 - 🌱 Estudando React.
-- 🤔 Procuro conteúdos sobre React no meu tempo livre.
+- 🤔 Procuro conteúdos sobre Javascript no meu tempo livre.
 - 📫 Contate-me no email: pluiz.braz@gmail.com
 - 😄 Pronomes: Ele/Dele.
 - ⚡ Fato Engraçado: Sempre quis comer nuggets de dinossauros.

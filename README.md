@@ -1,4 +1,4 @@
-## Oi! Eu sou o Pedro!
+## Oi! Eu sou Pedro!
 
 - 🔭 Estagiário na Bradesco Seguros.
 - 🌱 Estudando Angular.

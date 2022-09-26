@@ -1,7 +1,7 @@
 ## Oi! Eu sou o Pedro!
 
-- 🔭 Estagiário FullStack.
-- 🌱 Estudando React.
+- 🔭 Estagiário na Bradesco Seguros.
+- 🌱 Estudando Angular.
 - 🤔 Procuro conteúdos sobre Javascript no meu tempo livre.
 - 📫 Contate-me no email: pluiz.braz@gmail.com
 - 😄 Pronomes: Ele/Dele.

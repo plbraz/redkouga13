@@ -1,8 +1,8 @@
 ## Oi! Eu sou Pedro!
 
 - 🔭 Estagiário na Bradesco Seguros.
-- 🌱 Estudando Angular.
-- 🤔 Procuro conteúdos sobre Java no meu tempo livre.
+- 🌱 Estudando Java.
+- 🤔 Procuro conteúdos sobre ChatGPT no meu tempo livre.
 - 📫 Contate-me no email: pluiz.braz@gmail.com
 - 😄 Pronomes: Ele/Dele.
 - ⚡ Fato Engraçado: Sempre quis comer nuggets de dinossauros.

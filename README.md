@@ -2,14 +2,14 @@
 
 - 🔭 Estagiário na Bradesco Seguros.
 - 🌱 Estudando Java.
-- 🤔 Procuro conteúdos sobre ChatGPT no meu tempo livre.
+- 🤔 Procuro conteúdos sobre Angular no meu tempo livre.
 - 📫 Contate-me no email: pluiz.braz@gmail.com
 - 😄 Pronomes: Ele/Dele.
 - ⚡ Fato Engraçado: Sempre quis comer nuggets de dinossauros.
 - 💗 Apaixonado por Java.
 <div align="center">
-  <a href="https://github.com/RedKouga13">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=RedKouga13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title=""RedKouga13 Stats"""/>
+  <a href="https://github.com/plbraz">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=RedKouga13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title=""Pedro Braz's Stats"""/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedKouga13&layout=compact&langs_count=7&theme=dracula"/> 
 </div>
   
@@ -32,6 +32,6 @@
   <a href = "mailto:pluiz.braz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-luiz-braz-8254991b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/RedKouga13/redkouga13/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/plbraz/redkouga13/blob/output/github-contribution-grid-snake.svg)
  
 </div>

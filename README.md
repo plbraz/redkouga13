@@ -1,6 +1,6 @@
 ## Oi! Eu sou Pedro!
 
-- 🔭 Estagiário na Bradesco Seguros.
+- 🔭 Estagiário na Claro Brasil.
 - 🌱 Estudando Spring Boot.
 - 🤔 Procuro conteúdos sobre Angular no meu tempo livre.
 - 📫 Contate-me no email: pluiz.braz@gmail.com

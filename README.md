@@ -12,7 +12,6 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=plbraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title=""Pedro Braz's Stats"""/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plbraz&layout=compact&langs_count=7&theme=dracula"/> 
 </div>
-  
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -22,9 +21,6 @@
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pedro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
-    
-  <img align="right" alt="Pedro-pic" height="150" src="https://camo.githubusercontent.com/5289a5ff13fb66f189fb1f08d7c4175c74176cd3ad6605c5b35c03330964e613/68747470733a2f2f692e696d6775722e636f6d2f6b4645766163392e676966" data-canonical-src="https://imgur.com/a/rZVE1mY" style="max-width: 100%;">
 </div>
   
   ##

@@ -29,7 +29,7 @@
   <img align="center" alt="Pedro-SQL" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   
     
-  <img align="right" alt="Pedro-pic" height="150" src="https://imgur.com/a/rZVE1mY" style="max-width: 100%;">
+  <img align="right" alt="Pedro-pic" height="150" src="https://camo.githubusercontent.com/5289a5ff13fb66f189fb1f08d7c4175c74176cd3ad6605c5b35c03330964e613/68747470733a2f2f692e696d6775722e636f6d2f6b4645766163392e676966" data-canonical-src="https://imgur.com/a/rZVE1mY" style="max-width: 100%;">
 </div>
   
   ##

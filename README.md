@@ -1,12 +1,12 @@
 ## Oi! Eu sou Pedro!
 
-- 🔭 Estagiário na Claro Brasil.
-- 🌱 Estudando Spring Boot.
-- 🤔 Procuro conteúdos sobre Angular no meu tempo livre.
-- 📫 Contate-me no email: pluiz.braz@gmail.com
-- 😄 Pronomes: Ele/Dele.
-- ⚡ Fato Engraçado: Sempre quis comer nuggets de dinossauros.
-- 💗 Apaixonado por Java.
+- 🔭 Intern at Claro Brasil.
+- 🌱 Studying Spring Boot.
+- 🤔 Looking for Angular content in my free time.
+- 📫 Contact me at: pluiz.braz@gmail.com
+- 😄 Pronouns: He/Him.
+- ⚡ Fun Fact: I’ve always wanted to eat dinosaur nuggets.
+- 💗 Passionate about Java.
 <div align="center">
   <a href="https://github.com/plbraz">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=plbraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title=""Pedro Braz's Stats"""/>

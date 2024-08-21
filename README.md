@@ -1,4 +1,4 @@
-## Oi! Eu sou Pedro!
+## Hello!
 
 - 🔭 Intern at Claro Brasil.
 - 🌱 Studying Spring Boot.
